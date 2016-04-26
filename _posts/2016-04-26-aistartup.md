@@ -1,3 +1,10 @@
+---
+layout: post
+category : lessons
+tagline: "Supporting tagline"
+tags : [intro, beginner, jekyll, tutorial]
+---
+{% include JB/setup %}
 #人工智能创业公司
 ##Nervana - 深度学习平台
 **[Nervana](http://www.nervanasys.com)** 提供一个叫作 「neon」 的深度学习框架，允许用户构建自定义的深度学习网络。他们也提供深度学习云服务，用户使用 Nervana 的深度学习模型或利用 neon 自定义的模型，可以输入和分析他们的数据。他们在金融、能源和其他网络服务领域都有解决方案。
