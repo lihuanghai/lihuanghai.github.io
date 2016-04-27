@@ -1,9 +1,8 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
-favicon: /assets/img/avatar.JPG
+title: ted.li
+description: ted.li's blog
 baseurl:
-url: https://liungkejin.github.io
+url: https://lihuanghai.github.io
 rss_url:
 
 # Build settings
