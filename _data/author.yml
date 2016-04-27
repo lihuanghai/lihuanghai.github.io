@@ -1,66 +1,32 @@
 # Author settings
-name: 梁窠金
-title: Android 开发工程师
-address: 中国, 上海
-email: liungkejin@foxmail.com
-github: liungkejin
-gavatar: /assets/img/avatar.JPG
-workHistory:
-- work3:
-  company: 上海大银幕网络科技有限公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2015
-  duration: (2015.10 - Present)
-  description: 开发和维护 "公证电影" App
+name: 李黄海
+title: 资深码农
+address: 中国, 北京
+email: lihuanghai@foxmail.com
+github: lihuanghai
 
+workHistory:
 - work2:
-  company: 比亚迪精密制造上海分公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2014
-  duration: (2014.8 - 2015.8)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+  company: 盛大
+  location: 中国，北京
+  title: 总监
+  started: 2011
+  duration: (2011- 2013)
+  description: 云计算总监
 
 - work1:
-  company: 合肥卓远电子科技有限公司
-  location: 中国, 合肥
-  title: Linux 程序员
-  started: 2013
-  duration: (2013.6 - 2013.9)
-  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
+  company: 百度
+  location: 中国, 北京
+  title: 架构师
+  started: 2006
+  duration: (2006 - 2011)
+  description: 搜索、分布式存储/计算、云计算
 
 educationHistory:
 - education1:
-  organization: 安徽大学
-  degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
-languages:
-- language1:
-  name: 中文
-  proficiency: Native
-- language2:
-  name: English
-  proficiency: Limit
-programmingSkills:
-- Java:
-  name: Java/Android
-  percentage: 90%
-- Bash:
-  name: Bash Shell
-  percentage: 90%
-- CPP:
-  name: C/C++
-  percentage: 70%
-- PHP:
-  name: PHP
-  percentage: 30%
-- Python:
-  name: Python
-  percentage: 30%
-- Kotlin:
-  name: Kotlin
-  percentage: 70%
+  organization: 中国科学技术大学
+  degree: 硕士
+  major: 计算机软件
+  started: 1999
+  duration: (1999 - 2006)
+
