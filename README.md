@@ -1,5 +1,5 @@
-# Kejin
+# Lihuanghai's Blog
 
-> 自己选的路，跪着也要走下去
+> Just do something
 
-![Blog](/assets/img/blog.png)
+
