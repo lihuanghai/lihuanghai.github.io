@@ -3,7 +3,7 @@ layout: post_layout
 title: 人工智能创业公司
 time: 2016年04月26日 星期二
 published: true
-excerpt_separator: "#"
+excerpt_separator: "```"
 ---
 
 ##Nervana - 深度学习平台
