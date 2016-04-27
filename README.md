@@ -1,4 +1,4 @@
-# Lihuanghai's Blog
+# Ted.li's Blog
 
 > Just do something
 
