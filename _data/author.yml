@@ -1,5 +1,5 @@
 # Author settings
-name: ted.li
+name: lihuanghai
 title: 资深码农
 address: 中国, 北京
 email: lihuanghai@foxmail.com
@@ -9,15 +9,15 @@ workHistory:
 - work2:
   company: 盛大
   location: 中国，北京
-  title: 总监
+  title: 
   started: 2011
   duration: (2011- 2013)
-  description: 云计算总监
+  description: 云计算
 
 - work1:
   company: 百度
   location: 中国, 北京
-  title: 架构师
+  title: 
   started: 2006
   duration: (2006 - 2011)
   description: 搜索、分布式存储/计算、云计算
